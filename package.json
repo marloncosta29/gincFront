@@ -20,7 +20,7 @@
     "doc": "^0.0.3",
     "docz": "^2.0.0-rc.63",
     "jsbarcode": "^3.11.0",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "jspdf-autotable": "^3.2.10",
     "lodash": "^4.17.15",
     "material-table": "^1.53.0",
